@@ -1,0 +1,23 @@
+{
+  "name": "AprendendoTypescript",
+  "version": "1.0.0",
+  "description": "Estudo devmedia sobre typescript",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarunoKenobi/AprendendoTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarunoKenobi/AprendendoTypescript/issues"
+  },
+  "homepage": "https://github.com/HarunoKenobi/AprendendoTypescript#readme"
+}
